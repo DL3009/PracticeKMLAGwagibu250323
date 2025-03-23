@@ -1,0 +1,26 @@
+#box1{
+    border: 5px double;
+    width:250px;
+    height:250px;
+    font-size:17px;
+    font-family: "calibri";
+    font-weight: bold;
+    color: rgb(83, 37, 173);
+    background: rgb(51, 120, 122);
+    padding: 25px;
+    margin-top:100px;
+    margin-bottom: 100px;
+    margin-left: 100px
+}
+
+#box2{
+    border: 5px double;
+    width:250px;
+    height:250px;
+    font-size:17px;
+    font-family: "calibri";
+    font-weight: bold;
+    color: rgb(193, 122, 84);
+    background: rgb(91, 25, 191);
+    padding: 25px;
+}
