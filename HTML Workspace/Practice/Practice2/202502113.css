@@ -1,0 +1,34 @@
+h1{
+    text-shadow: 0px 0px 5px yellow, 0px -5px 5px red;
+    box-shadow: 5px 5px 5px black;
+}
+h1:hover{
+    box-shadow: 5px 5px 5px black;
+}
+
+.fa-microchip{
+    color:aqua;
+}
+.fa-bug-slash{
+    color:red;
+}
+#box1{
+    border: 4px solid;
+    width: 250px;
+    height:250px;
+    font-size: 250px;
+    text-align:center;
+    background: lightblue;
+
+    transform: translateX(200px);
+    transform: translateY(200px);
+    transform: translate(200px, 200px);
+    transform: rotateX(180deg);
+    transform: rotateY(180deg);    
+    transform: rotateZ(180deg);
+    transform: scale(2,1);
+    transform: skewX(45deg);
+    transform: skewY(45deg);
+    transform: skew(20deg, 20deg);
+    transform: matrix(2,0,0,2,250,250);
+}
